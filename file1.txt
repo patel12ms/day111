@@ -2,4 +2,4 @@ adding file1.txt
 
 modifying file1.txt
 
-modified file1.txt by Sebin
+modified file1.txt by Pritam
